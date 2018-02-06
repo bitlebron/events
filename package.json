@@ -1,0 +1,11 @@
+{
+  "name": "myevents",
+  "version": "1.0.0",
+  "description": "my event place",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onengiye Richard",
+  "license": "ISC"
+}
