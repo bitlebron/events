@@ -1,2 +1,5 @@
 http://www.blacktie.co/demo/dashgum/index.html
 http://blog.creative-tim.com/web-design/free-dashboard-templates/
+
+// Custom bootstrap navbar color
+https://work.smarchal.com/twbscolor/
